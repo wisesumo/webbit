@@ -1,24 +1,20 @@
-# README
+# WEBBIT
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Webbit is a place to communicate with other web designers and developers
 
-Things you may want to cover:
+Features of the app include:
 
-* Ruby version
+- Creating posts or what we'll call "Submissions"
 
-* System dependencies
+- Creating communities
 
-* Configuration
+- Subscribing and unsubscribing to communities
 
-* Database creation
+- Voting on both Submissions and Comments on Submissions
 
-* Database initialization
+- Admin level permissions
 
-* How to run the test suite
+- Transactional Emails
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Search,Filtering, User Profiles
+- and a ton more!
